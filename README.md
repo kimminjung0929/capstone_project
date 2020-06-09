@@ -1,4 +1,4 @@
-# Yeungjin University capston design
+# Yeungjin University  capston design
 * Team name : Infinite
 * Project name : baribari
 * Department : computer information
