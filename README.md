@@ -5,9 +5,19 @@
 * Major : web database
  
 ## Introduction to the Project
+The goal is to develop a self-driving delivery system within a limited area, such as campus, government offices, etc.
 
 ## Project Purpose
+* Currently, most of the deliveries on campus and in government offices are delivered directly by motorcycles and walking. 
+* This can cause motorcycle accidents and it takes time to deliver them directly.
+* We started the project to reduce these accidents and time consumption.
 
+## Project characteristic
+* Deliver the goods you wish to deliver via RC car
+* User focused, convenient screen configuration
+* The administrator directly manages stops and routes in a flexible manner.
+* Identifying traffic through statistical graphs of delivery information
+* View current delivery status and RC car status at a glance
 
 
 ## Part
