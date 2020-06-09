@@ -1,7 +1,8 @@
-# Yeungjin University  capston design
+# Yeungjin University team8 capston design
 * Team name : Infinite
 * Project name : baribari
 * Department : computer information
+* Major : web database
  
 ## Introduction to the Project
 
